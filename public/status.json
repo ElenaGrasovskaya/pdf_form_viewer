@@ -1,0 +1,6 @@
+{"pages":[{"id":"R208","width":595,"height":842},{"id":"R1","width":595,"height":842},{"id":"R775","width":595,"height":842}],
+"readonly":false,
+"formType":"acroform",
+"signatureWidgetsPositions":[{"signed":false,"pageId":"R775","readonly":false,"annotationId":"R551","rect":[40.191,477.051,239.398,31.562],"fieldName":"Signature"}],
+"status":"unlocked",
+"context":{"apiUrl":"/api/v2","customPdfEngine":{"userEmail":"fluix-dev@readdle.com","baseFileName":"Purchase Order Form","groups":["Group1","DevServer"],"companyName":"Dev Company"},"debugDocument":{"env":"Fluix: dev","source":"-:-"}}}
